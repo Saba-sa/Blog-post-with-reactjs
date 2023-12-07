@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "02a85842-d3bf-48a1-ab16-667e1f7d5e2d",
+      "checked": true,
+      "item": "hello world this is default text"
+    },
+    {
+      "id": "12006234-c321-45fa-ba17-ca8f94020472",
+      "checked": false,
+      "item": "dumy Text"
+    },
+    {
+      "id": "5171f193-2a1a-47a6-b4ca-b6a1b0c37fd9",
+      "checked": false,
+      "item": "dumy text "
+    }
+  ]
+}
